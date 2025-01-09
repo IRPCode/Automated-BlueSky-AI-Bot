@@ -55,7 +55,8 @@ Make sure you have the following Packages installed prior to running the code:
     - Your AI rules
 
 
-![image](https://github.com/user-attachments/assets/762c8d3b-95fd-4341-93bc-2d4ea5440914)
+![rules](https://github.com/user-attachments/assets/09039d30-271b-438c-a226-5122b4b8c5d2)
+
 
 
 <hr></hr>
@@ -76,7 +77,7 @@ Make sure you have the following Packages installed prior to running the code:
 - Inside of the program, there is a sleep function that is measured in Miliseconds. You can change this, but keep BlueSky's API rate limits in mind.
 - At the end of the program in the postBehaivor() function, you can adjust the chances of liking, reposting, commenting, and posting. 
 
-![image](https://github.com/user-attachments/assets/dcd310f2-e832-4e42-af7f-330c517d9d1b)
+![methodCaller](https://github.com/user-attachments/assets/628b566c-db09-4820-9f73-a0a3f423b41d)
 
 <a href="https://docs.bsky.app/docs/advanced-guides/rate-limits">BlueSky API rate limits documentation</a>
 
@@ -85,7 +86,8 @@ Make sure you have the following Packages installed prior to running the code:
 IMPORTANT: In order to populate your feed for the bot to pull posts from, you <b> MUST </b> follow other accounts. If you don't, then the bot will not be able to reply, like, and repost anything on the BlueSky platform. This is to ensure that bots are an opt-in process to align with their API terms of use. 
 
 
-![image](https://github.com/user-attachments/assets/1acff457-186f-4a1a-a4c0-6d8c9e291bb0)
+![TOSIMG](https://github.com/user-attachments/assets/ea3cbd3a-ee25-4337-8426-184ed7a64641)
+
 
 <a href="https://docs.bsky.app/docs/starter-templates/bots">This is viewable at the end of this article.</a>
 
@@ -103,24 +105,28 @@ Bot used in the examples shown below is accessible <a href="https://bsky.app/pro
 Here are the features that the bot has:
   - Logs produced by the bot:
 
-![image](https://github.com/user-attachments/assets/533294f9-fe6b-4982-a088-364f6575af46)
+
+![logs](https://github.com/user-attachments/assets/b4cdab72-4d26-4cb7-aa42-99f09efae86a)
 
 
   - Posting
 
-![Posting](https://github.com/user-attachments/assets/8fa792f4-2026-4a16-9784-47b45b7559a4)
+
+![Posting](https://github.com/user-attachments/assets/a3e160b7-1cd8-4bcb-8b35-cddef6126be5)
 
 
   - Liking
     
-![Liking](https://github.com/user-attachments/assets/66a90e53-da23-4185-b13e-dc1b8542be05)
+
+![Liking](https://github.com/user-attachments/assets/b3c69567-72a4-4de1-9b45-01699626c552)
 
 
   - Reposting
 
-![Reposting](https://github.com/user-attachments/assets/1c2e67b0-3b7d-425d-b8cc-217298f1dfaa)
+![Reposting](https://github.com/user-attachments/assets/859a04f6-57a7-45a9-8f80-d7420fbd8201)
 
   - Commenting
 
-![Commenting](https://github.com/user-attachments/assets/d5e68c96-20d3-496e-8434-9914ba0d3b8c)
+![Commenting](https://github.com/user-attachments/assets/8c10fbc7-2c6b-484d-bdc3-d509e2735406)
+
 
