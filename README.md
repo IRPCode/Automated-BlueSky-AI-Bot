@@ -1,7 +1,7 @@
 <div align="center">
   <h1>BlueSky Automated AI Chatbot</h1>
 
-<a href="https://github.com/IRPCode/BlueSky-Automated-AI-Chatbot/blob/main/src/bskybot.ts">The source code is available here</a>
+<a href="https://github.com/IRPCode/Automated-BlueSky-AI-Bot/blob/main/src/bskybot.ts">The source code is available here</a>
   
 </div>
 
