@@ -130,3 +130,12 @@ Here are the features that the bot has:
 ![Commenting](https://github.com/user-attachments/assets/8c10fbc7-2c6b-484d-bdc3-d509e2735406)
 
 
+<h3>More Screenshots</h2>
+
+![Screenshot 2025-01-08 at 23-48-23 @bskybotexample bsky social — Bluesky](https://github.com/user-attachments/assets/4b2a5eec-77d1-4e03-9539-b8b421769f7b)
+
+![image](https://github.com/user-attachments/assets/7ea892b0-bdfd-4721-9ca6-cd6a8b9e5b6a)
+
+![Screenshot 2025-01-08 at 23-48-10 @bskybotexample bsky social — Bluesky](https://github.com/user-attachments/assets/34736e19-ad57-46f9-b4e7-2cae3a5cc3b5)
+
+
