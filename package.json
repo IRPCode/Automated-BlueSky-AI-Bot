@@ -1,0 +1,12 @@
+{
+  "name": "blueskybot",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Accoutn bot", "Bluesky"],
+  "author": "IRPCode",
+  "license": "ISC",
+  "description": "A bluesky bot that automates an account."
+}
